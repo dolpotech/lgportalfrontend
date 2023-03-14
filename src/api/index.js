@@ -3,7 +3,7 @@ import axios from "axios";
 import { toast } from "react-toastify";
 
 // const baseUrl = "http://plgportal.lumbini.gov.np/api/api/";
-const baseUrl = "http://localhost/lgportal/api/";
+const baseUrl = "http://localhost/lgportalnew/api/";
 
 const headers = {
   "Content-Type": "application/json",
