@@ -283,11 +283,12 @@ export default function Footer() {
         </div>
       </div>
       <div className="text-center p-4 bg-[#1359a0]">
-        <span className="text-white">© 2021 Copyright: </span>
-        <a className="text-white font-semibold" href="#">
-          {t("logo_title")}
+        <span className="text-white">© 2023 Copyright: </span>
+        <a className="text-white font-semibold" href="https://mstech.com.np/" target="_blank">
+        Matrix Softech Pvt. Ltd | All Rights Reserved.
         </a>
-      </div>{" "}
+
+      </div>{""}
     </footer>
   );
 }
